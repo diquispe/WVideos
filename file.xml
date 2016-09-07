@@ -1,0 +1,315 @@
+<xml version="1.0" encoding="ISO-8859-1" standalone="yes">
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+    <libro>
+        <precio>29.95</precio>
+        <editorial>Editorial Planeta</editorial>
+        <titulo>Nunca es tarde para aprender</titulo>
+        <autor>J.M.Navarro</autor>
+        <desc>Ensayo sobre la necesidad de estar en constante fase de
+            aprendizaje a lo largo de nuestra vida, su repercusión en nuestra vida,
+            en todas sus etapas y los beneficios que ello reportar sobre nuestra
+            salud tanto mental como física</desc>
+        <images>
+            <image id="1">
+                <url>http://images.leemiblog.com/1_large.jpg</url>
+                <titulo>Portada grande</titulo>
+            </image>
+            <image id="2">
+                <url>http://images.leemiblog.com/2_large.jpg</url>
+                <titulo>Contraportada</titulo>
+            </image>
+            <image id="3">
+                <url>http://images.leemiblog.com/foto_autor.jpg</url>
+                <titulo>Foto del autor</titulo>
+            </image>
+        </images>
+    </libro>
+
+</xml>
